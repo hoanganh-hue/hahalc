@@ -1,8 +1,10 @@
-# 🏥 Hệ Thống Trích Xuất Dữ Liệu VSS (Vietnam Social Security)
+# 🏥 Hệ Thống Trích Xuất Dữ Liệu VSS (Vietnam Social Security) - hahalc
 
 ## 📋 Tổng Quan Dự Án
 
 Dự án này cung cấp một hệ thống hoàn chỉnh để trích xuất dữ liệu thực tế từ cổng thông tin Bảo Hiểm Xã Hội Việt Nam (VSS). Hệ thống cho phép thu thập thông tin BHXH của công dân thông qua số CCCD một cách tự động và hiệu quả.
+
+**Repository:** hoanganh-hue/hahalc
 
 ## 🎯 Mục Tiêu Chính
 
@@ -364,4 +366,3 @@ cp -r data data_backup_$(date +%Y%m%d)
 ## 📄 Giấy Phép
 
 Dự án này được phát triển cho mục đích nghiên cứu và giáo dục. Vui lòng sử dụng có trách nhiệm và tuân thủ pháp luật.
-
